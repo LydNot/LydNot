@@ -11,5 +11,5 @@
 - based in sf ↔ oxford.
 
 ### work + interests
-- **ai safety / utility engineering**, math, systems, writing.
-- recent: evals, datasets
+- ai safety, math, systems, writing.
+- recent: utility engineering
