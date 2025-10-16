@@ -10,6 +10,3 @@
 - working with CAIS; writing about AI; reading mathematics.  
 - based in sf ↔ oxford.
 
-### work + interests
-- ai safety, math, systems, writing.
-- recent: utility engineering
