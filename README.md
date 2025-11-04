@@ -1,12 +1,13 @@
 <!-- profile: github.com/YOURUSER -->
 <h1 align="center">hi, i'm lydia!</h1>
 <p align="center">
-  <a href="https://lydianottingham.com">website</a> •
+  <a href="lydia.ml">site</a> •
+  <a href="https://lydianottingham.com">likes</a> •
   <a href="https://x.com/LydNot">x</a> •
   <a href="https://substack.com/@lydianottingham">substack</a>
 </p>
 
 ### now
-- working with CAIS; writing about AI; reading mathematics.  
+- writing 1 blogpost/day!
 - based in sf ↔ oxford.
 
